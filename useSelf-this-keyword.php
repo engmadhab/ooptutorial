@@ -23,5 +23,8 @@
 
  $s = new Sibplc();
 
- echo $s->abc();
+$s->abc();
+echo "<hr>";
+$s->sib();
+$s->allsib();
 ?>
